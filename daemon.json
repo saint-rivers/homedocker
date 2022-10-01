@@ -1,0 +1,3 @@
+{
+    "insecure-registries": ["homedocker.com:5000"]
+}
