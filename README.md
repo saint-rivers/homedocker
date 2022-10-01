@@ -1,5 +1,11 @@
 # Home Docker
 
+Update docker daemon.
+
+```bash
+./homedocker-setup.sh
+```
+
 How to push to your local registry.
 
 ```bash
